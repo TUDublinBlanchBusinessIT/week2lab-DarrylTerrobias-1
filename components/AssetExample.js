@@ -23,6 +23,7 @@ const styles = StyleSheet.create({
     fontSize: 14,
     fontWeight: 'bold',
     textAlign: 'center',
+    fontFamily: '',
   },
   logo: {
     height: 128,
